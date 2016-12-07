@@ -1,1 +1,0 @@
-# unite-latex-symbols.vim
