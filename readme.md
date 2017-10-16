@@ -1,10 +1,10 @@
-# unite-latex-symbols
+# unite-latexsymbols
 
 `deinlazy.toml`
 
     [[plugins]]
-    repo = 'noyuno/unite-latex-symbols'
+    repo = 'noyuno/unite-latexsymbols'
     on_ft = 'tex'
 
-![alt figure](https://raw.githubusercontent.com/noyuno/unite-latex-symbols/master/figure.png)
+![alt figure](https://raw.githubusercontent.com/noyuno/unite-latexsymbols/master/figure.png)
 
