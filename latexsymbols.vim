@@ -9,7 +9,7 @@ let g:latexsymbols_unite_source = {
   \ 'name': 'latexsymbols',
   \ 'description': 'latexsymbols',
   \ 'action_table': {
-  \   'insert_symbol': {
+  \   'insert_latexsymbol': {
   \     'description': 'insert_latexsymbol'
   \   }
   \ }, 
