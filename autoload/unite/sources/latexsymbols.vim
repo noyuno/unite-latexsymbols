@@ -107,7 +107,7 @@ let g:loaded_latexsymbols = 1
 let s:save_cpo = &cpo
 set cpo&vim
 
-let g:symbols_unite_source = {
+let g:latexsymbols_unite_source = {
   \ 'name': 'latexsymbols',
   \ 'description': 'latexsymbols',
   \ 'action_table': {
